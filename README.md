@@ -169,18 +169,6 @@ The library aims to support a broad and evolving set of Computer Vision tasks, i
 * Degradation Modeling
 * Blind Image Restoration
 
-### Domain-Specific Vision
-
-* Medical Image Analysis
-* Remote Sensing Image Analysis
-* Document Image Understanding
-* OCR and Scene Text Recognition
-* Layout Understanding
-* Industrial Defect Detection
-* Visual Anomaly Detection
-* Autonomous Driving Perception
-* Satellite and Aerial Image Understanding
-
 ---
 
 ## Model Families
